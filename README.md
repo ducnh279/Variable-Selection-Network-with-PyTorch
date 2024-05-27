@@ -1,4 +1,4 @@
-# Variable-Selection Network in PyTorch
+# Variable Selection Network with PyTorch
 
 ## Introduction
 Welcome to this repository, where you'll find a PyTorch implementation of Variable-Selection Network (VSN). VSN is a dynamic neural network architecture designed to learn and select relevant input variables, enhancing both model interpretability and performance. I chose PyTorch for VSN implementation due to the absence of an existing version online. The closest reference is a Keras example titled ["Classification with Gated Residual and Variable Selection Networks"](https://keras.io/examples/structured_data/classification_with_grn_and_vsn/).
