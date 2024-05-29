@@ -9,8 +9,8 @@ The VSN architecture is inspired by the paper ["Gated Residual and Variable Sele
 ## Dataset
 Experiments utilized the datasets from the Kaggle competition "ICR - Identifying Age-Related Conditions" & "Prediction of spam with Bayesian model". The VSN implementation performed well in this competition.
 
-Access the datasets below:
-- [ICR](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data)
-- [Spam](https://www.kaggle.com/competitions/lets-surpass-the-hosts-bayesian-model/data)
-
+| Dataset                                      | Access Link |
+|----------------------------------------------|-------------|
+| ICR - Identifying Age-Related Conditions     | [ICR](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data) |
+| Prediction of Spam with Bayesian Model       | [Spam](https://www.kaggle.com/competitions/lets-surpass-the-hosts-bayesian-model/data) |
 ---
