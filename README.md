@@ -7,5 +7,10 @@ Welcome to this repository, where you'll find a PyTorch implementation of Variab
 The VSN architecture is inspired by the paper ["Gated Residual and Variable Selection Networks for Tabular Data"](https://arxiv.org/pdf/1912.09363) and the winning solution of the Kaggle competition ["ICR - Identifying Age-Related Conditions"](https://www.kaggle.com/competitions/icr-identify-age-related-conditions), which utilized VSNs effectively.
 
 ## Dataset
-Experiments utilized the dataset from the Kaggle competition "Prediction of spam with Bayesian model." Access the dataset [here](https://www.kaggle.com/competitions/lets-surpass-the-hosts-bayesian-model/data). The VSN implementation performed well in this competition.
+Experiments utilized the datasets from the Kaggle competition "ICR - Identifying Age-Related Conditions" & "Prediction of spam with Bayesian model". The VSN implementation performed well in this competition.
 
+Access the datasets below:
+- [ICR](https://www.kaggle.com/competitions/icr-identify-age-related-conditions/data)
+- [Spam](https://www.kaggle.com/competitions/lets-surpass-the-hosts-bayesian-model/data)
+
+---
